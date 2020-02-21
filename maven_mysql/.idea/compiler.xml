@@ -9,5 +9,8 @@
         <module name="maven_mysql" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="maven_mysql" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>

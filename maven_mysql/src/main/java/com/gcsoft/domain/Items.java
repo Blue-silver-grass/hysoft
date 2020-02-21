@@ -3,6 +3,15 @@ package com.gcsoft.domain;
 public class Items {
     private Integer id;
     private String name;
+    private Float price;
+
+    public Float getPrice() {
+        return price;
+    }
+
+    public void setPrice(Float price) {
+        this.price = price;
+    }
 
     public Integer getId() {
         return id;
@@ -25,6 +34,7 @@ public class Items {
         return "Items{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
+                ", price=" + price +
                 '}';
     }
 }
