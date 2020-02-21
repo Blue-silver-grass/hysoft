@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bc96634-56ca-47c5-8d79-afffdd809e11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/artifacts/maven_web_war.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/artifacts/maven_web_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven_web/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../maven_web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven_web/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven_web/maven_web.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,7 +138,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582292878613" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582293447992" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../maven_web/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -202,7 +189,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582282271842</updated>
-      <workItem from="1582282273973" duration="3621000" />
+      <workItem from="1582282273973" duration="4117000" />
     </task>
     <task id="LOCAL-00001" summary="[feature] 增加Items属性">
       <created>1582283074729</created>
@@ -220,10 +207,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3621000" />
+    <option name="totallyTimeSpent" value="4117000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
